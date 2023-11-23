@@ -1,2 +1,2 @@
-# Todden96.github.io
-My webpage
+# Welcome to my web page
+Hosted through the readme file
