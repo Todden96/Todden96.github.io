@@ -1,4 +1,4 @@
-<!-- # About me
+# About me
 
 ## Professional 
 I work as a Data Scientist at Maersk
@@ -16,4 +16,4 @@ University of Copenhagen, Department of Mathematics
 
 [Handicap ranking](https://medlemmer.bridge.dk/LookUpHAC.php?DBFNr=51917)
 
-[Master points](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917) -->
+[Master points](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917)
