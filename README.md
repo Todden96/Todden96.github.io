@@ -16,6 +16,4 @@ University of Copenhagen, Department of Mathematics
 
 [Handicap ranking](https://medlemmer.bridge.dk/LookUpHAC.php?DBFNr=51917)
 
----
-
-[Master point](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917)
+[Master points](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917)
