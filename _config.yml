@@ -2,7 +2,8 @@ theme: jekyll-theme-cayman
 
 exclude: ["README.md"]
 
-title: My _config website
+title: My _config title
+description: My _config description
 author:
   name: Victor Todd-Moir
   email: v.toddmoir@gmail.com
