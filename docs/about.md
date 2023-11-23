@@ -22,6 +22,3 @@ University of Copenhagen, Department of Mathematics
 
 [Master points](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917)
 
-
-#### Contact
-For contac, go to [contact page](contact.md)
