@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+exclude: ["README.md"]
+
+title: My _config website
+author:
+  name: Victor Todd-Moir
+  email: v.toddmoir@gmail.com
+  github: Todden96
+
+production_url: https://todden96.github.io/simple_site
