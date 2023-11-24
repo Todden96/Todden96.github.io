@@ -7,4 +7,4 @@ To read about me, [click here](pages/about.md)
 
 To contact me, [click here](pages/contact.md)
 
-To see a test of wikipedia, [click here](https://en.wikipedia.org/wiki/GIF)
+To see a test of wikipedia, [click here](pages/wiki-test.html)
