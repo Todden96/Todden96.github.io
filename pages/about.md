@@ -23,4 +23,4 @@ University of Copenhagen, Department of Mathematics
 
 
 ---
-[Front page](#home)
+[Front page](index.md#top)
