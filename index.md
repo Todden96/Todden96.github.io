@@ -6,8 +6,12 @@ description: My name is Victor Todd-Moir
 <a id="tophome"></a>
 Welcome to my self-orientated page. Enjoy yourself! (emoji)
 
-![][victor]
+---
 
+![][victor]
+---
+
+![Me](figs/avatar.jpg)
 ---
 
 To read about me, [click here](pages/about.md)  
