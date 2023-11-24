@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 
 exclude: ["README.md"]
 
-title: Victor Todd-Moir
-description: " "
+title: Bridge Basics
+description: By Victor Todd-Moir
 author:
   name: Victor Todd-Moir
   email: v.toddmoir@gmail.com

@@ -1,26 +1,16 @@
 ---
-title: About
+title: Merits
 ---
 
-
-## Professional 
-I work as a Data Scientist at Maersk
-
-## Education
-### MSc in Mathematics-Economics, 2022
-University of Copenhagen, Department of Mathematics
-
-### BSc in Mathematics-Economics, 2019
-University of Copenhagen, Department of Mathematics
-
-## Personal Interests
-
-### Bridge
+### Dansih Rankings
 
 [Handicap ranking](https://medlemmer.bridge.dk/LookUpHAC.php?DBFNr=51917)
 
 [Master points](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917)
 
+### EBL Rankings
+
+[Master points](http://www.eurobridge.org/EmpListPerson/?qryid=60660)
 
 ---
 [Front page](../#tophome)
