@@ -6,3 +6,5 @@ Hi and welcome to my self-orientated page.
 To read about me, [click here](pages/about.md)
 
 To contact me, [click here](pages/contact.md)
+
+To see a test of wikipedia, [click here](https://en.wikipedia.org/wiki/GIF)
