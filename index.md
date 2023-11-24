@@ -1,39 +1,18 @@
-Hi and welcome to my self-orientated page.
-
-
-## Test header from index.md
 ---
-To read about me, [click here](pages/about.md)
+title: Hi There!
+description: My name is Victor Todd-Moir
+---
 
-To contact me, [click here](pages/contact.md)
+<a id="home"></a>
+Welcome to my self-orientated page. Enjoy yourself! (emoji)
+
+
+---
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Where do you wanna go?</summary>
 <br>
-This is how you dropdown.
-</details>
-
----
-
-<details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
-
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
-</details>
-
-
----
-
-<details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
-
-- markdown list 1
-  - nested list 1
-  - nested list 2
-- markdown list 2
+To read about me, [click here](pages/about.md)
+<br>
+To contact me, [click here](pages/contact.md)
 </details>

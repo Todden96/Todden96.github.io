@@ -1,6 +1,5 @@
 ---
-title: About Me
-description: Hi there
+title: About
 ---
 
 
@@ -22,3 +21,6 @@ University of Copenhagen, Department of Mathematics
 
 [Master points](https://medlemmer.bridge.dk/LookupMP.php?DBFNr=51917)
 
+
+---
+[Front page](#home)
