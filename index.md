@@ -3,7 +3,8 @@ title: Hi There!
 description: My name is Victor Todd-Moir
 ---
 
-###### Welcome to my self-orientated page. Enjoy yourself! (emoji) [top]
+<a name="tophome"></a>
+Welcome to my self-orientated page. Enjoy yourself! (emoji)
 
 ![][victor]
 
