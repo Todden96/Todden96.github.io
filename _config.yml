@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 exclude: ["README.md"]
 
 title: Victor Todd-Moir
-description: _CONFIG.yml, A personal website for Victor Todd-Moir
+description: " "
 author:
   name: Victor Todd-Moir
   email: v.toddmoir@gmail.com
