@@ -8,7 +8,7 @@ Welcome to my self-orientated page. Enjoy yourself! (emoji)
 
 ---
 
-![][victor]
+->![][victor]
 ---
 
 ![](figs/avatar.jpg "How are you doing?")
@@ -18,4 +18,4 @@ To read about me, [click here](pages/about.md)
 To contact me, [click here](pages/contact.md)
 
 
-[victor]: figs/avatar.jpg
+[victor]: figs/avatar.jpg width:100px
