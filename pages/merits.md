@@ -2,7 +2,7 @@
 title: Merits
 ---
 
-### Dansih Rankings
+### Danish Rankings
 
 [Handicap ranking](https://medlemmer.bridge.dk/LookUpHAC.php?DBFNr=51917)
 
