@@ -4,7 +4,7 @@ description: By Victor Todd-Moir
 ---
 
 <a id="tophome"></a>
-Welcome to my self-orientated page. Enjoy yourself! (emoji)
+Welcome to my self-orientated page. Enjoy yourself! :clubs: :diamonds: :hearts: :spades:
 
 ---
 
