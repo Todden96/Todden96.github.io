@@ -30,8 +30,8 @@ Programmet kommer til at se nogenlunde således ud:
 
 Om aftenen må du blive hængende så længe, du har lyst. Sovepladserne i sommerhuset er optaget, men de aktive friluftsmennesker må hjertens gerne slå telt op i haven. Bliver du til dagen efter, står den på morgenmad og badetur!
 
-SU senest 1. maj
+*SU senest 1. maj*
 
-Til børnene:
-Du er mere end velkommen! Jeg skal bare vide, om dine forældrene begge deltager i lege, eller om de vil deltage som én enhed med udskiftning. Har du tænder, vil der blive sørget for børnevenlig mad. Har du ikke tænder, må du meget gerne bede dine forældre om at stå for mad til dig.
+[Invitation til de små](pages/børn.md)  
+
 
