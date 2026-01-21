@@ -4,7 +4,7 @@ description: ' '
 
 ---
 
-![](../figs/dannebrog.webp)
+![](../figs/dannebrog.jpg)
 
 <a id="tophome"></a>
 
