@@ -14,7 +14,7 @@ Kære venner og familie
 
 Hvem sagde, man ikke kunne lave en begivenhed uden Facebook?
 
-I anledning af min 30-års fødselsdag i påsken, vil jeg gerne invitere til festivitas i pinsen. Nærmere bestemt lørdag den 23. maj.
+I anledning af min 30-års fødselsdag i påsken, vil jeg gerne invitere dig og din bedre halvdel til festivitas i pinsen. Nærmere bestemt lørdag den 23. maj.
 
 Løjerne foregår på Skovlystvej 51, 4873 Væggerløse aka Falster. Jeg har bestilt godt vejr, så jeg vil blive rigtig glad for at se jer til en dag med solskin, leg, spil og havefest. Det vil sige, du skal møde op i tøj til at være udendørs og aktiv - men ikke så aktiv, at du skal i bad. 
 
