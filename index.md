@@ -30,7 +30,7 @@ Programmet kommer til at se nogenlunde således ud:
 - 17:30 Præmieoverrækkelse
 - 18:00 Vi tænder op for grill og fadølsanlæg
 
-Om aftenen må du blive hængende så længe, du har lyst. Sovepladserne i sommerhuset er optaget, men de aktive friluftsmennesker må hjertens gerne slå telt op i haven. Bliver du til dagen efter, står den på morgenmad og badetur!
+Om aftenen må du blive hængende så længe, du har lyst. Sovepladserne i sommerhuset er optaget, men de aktive friluftsmennesker må hjertens gerne slå telt op i haven. Bliver du til dagen efter, er der morgenmad til alle, der hopper med en tur i havet!
 
 **SU senest 1. maj**
 
