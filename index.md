@@ -30,7 +30,7 @@ Programmet kommer til at se nogenlunde således ud:
 
 Om aftenen må du blive hængende så længe, du har lyst. Sovepladserne i sommerhuset er optaget, men de aktive friluftsmennesker må hjertens gerne slå telt op i haven. Bliver du til dagen efter, står den på morgenmad og badetur!
 
-*SU senest 1. maj*
+**SU senest 1. maj**
 
 [Invitation til de små](pages/boern.md)  
 
