@@ -1,6 +1,6 @@
 ---
 title: Fødselsdagsfest
-desripction: ' '
+description: ' '
 
 ---
 
