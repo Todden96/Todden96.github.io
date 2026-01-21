@@ -4,9 +4,9 @@ desripction:
 
 ---
 
-<a id="tophome"></a>
+![](/figs/dannebrog.webp 200x200)
 
-![](../figs/dannebrog.webp)
+<a id="tophome"></a>
 
 Kære venner og familie
 
@@ -32,6 +32,6 @@ Om aftenen må du blive hængende så længe, du har lyst. Sovepladserne i somme
 
 *SU senest 1. maj*
 
-[Invitation til de små](pages/børn.md)  
+[Invitation til de små](pages/boern.md)  
 
 
