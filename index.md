@@ -4,7 +4,9 @@ description: ' '
 
 ---
 
-![](../figs/dannebrog.jpg)
+<p align="center">
+  <img src="../figs/dannebrog.jpg" />
+</p>
 
 <a id="tophome"></a>
 
